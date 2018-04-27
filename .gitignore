@@ -1,0 +1,57 @@
+### PROGRAMMING LANGUAGES 
+## JAVA
+# Compiled class file
+*.class
+
+# Log file
+*.log
+logs
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+
+## MAVEN
+log/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+target/
+
+## IDE
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.jso
+
+## SECURITY
+*.srl
+*.crt
+*.csr
+*.key
+*.pub
+*.pem
+*.swp
+
+
+## OTHERS
+*.zip
+*.todo
+*.pid
